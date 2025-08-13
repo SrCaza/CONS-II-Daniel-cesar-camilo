@@ -2,7 +2,7 @@
 
 ## Integrantes 
 ### Camilo Lopez Alzate 
-### Daniel 
+### Daniel Agudelo 
 ### Cesar 
 
 ## Tecnologias 
