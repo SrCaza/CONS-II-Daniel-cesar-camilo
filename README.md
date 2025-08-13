@@ -1,7 +1,6 @@
-# Construccion2DanielCesarCamilo
+# Construccion2DanielCesar
 
-## Integrantes 
-### Camilo Lopez Alzate 
+## Integrante
 ### Daniel Agudelo 
 ### Cesar 
 
